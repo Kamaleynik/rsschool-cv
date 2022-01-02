@@ -20,7 +20,7 @@ function multiply(a, b){
 ```
 
 >## Projects
-[rsschool-cv](https://github.com/Kamaleynik/rsschool-cv.git)
+[rsschool-cv](https://Kamaleynik.github.io/rsschool-cv/cv)
 
 >## Education
 * College
